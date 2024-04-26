@@ -8,14 +8,14 @@
         "Nu mai pleci in vacanta?",
         "Hai nu ma aburi",
         "Trage partz, dar nu trezi toata casa",
-        "Oare ai scame in buric?"
+        "Oare ai scame in buric?",
     ],
     "morning": [
         "Spala bine dintii si ochii",
         "Trage partz, dar nu trezi toata casa",
         "Azi esti cel mai tare, nu te supara nimeni",
         "O noua zi, o noua aventura.",
-        "Esti deja treaz?"
+        "Esti deja treaz?",
     ],
     "afternoon": [
         "Hitting your stride!",
@@ -27,6 +27,6 @@
         "Ne pregatim si noi de culcare?",
         "Oare ai scame in buric?",
         "Trage partz, dar nu trezi toata casa",
-        "Daca ai avut o zi grea, maine va fi mai bine."
+        "Daca ai avut o zi grea, maine va fi mai bine.",
     ]
 }
